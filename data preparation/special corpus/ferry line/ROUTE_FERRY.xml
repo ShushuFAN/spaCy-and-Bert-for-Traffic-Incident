@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2020-11-20T12:49:51">
+<ROUTE>
+<ROUTE_ID>7001</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>KAITO</DISTRICT>
+<ROUTE_NAMEC>蒲台島 - 香港仔 (經赤柱)</ROUTE_NAMEC>
+<ROUTE_NAMES>蒲台岛 - 香港仔 (经赤柱)</ROUTE_NAMES>
+<ROUTE_NAMEE>Po Toi Island - Aberdeen (via Stanley)</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>T</SERVICE_MODE>
+<SPECIAL_TYPE>3</SPECIAL_TYPE>
+<JOURNEY_TIME>36</JOURNEY_TIME>
+<LOC_START_NAMEC>蒲台島</LOC_START_NAMEC>
+<LOC_START_NAMES>蒲台岛</LOC_START_NAMES>
+<LOC_START_NAMEE>Po Toi Island</LOC_START_NAMEE>
+<LOC_END_NAMEC>香港仔</LOC_END_NAMEC>
+<LOC_END_NAMES>香港仔</LOC_END_NAMES>
+<LOC_END_NAMEE>Aberdeen</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k10</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k10</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k10</HYPERLINK_E>
+<FULL_FARE>25</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7003</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>OUTLYING</DISTRICT>
+<ROUTE_NAMEC>香港仔 - 索罟灣 (經模達)</ROUTE_NAMEC>
+<ROUTE_NAMES>香港仔 - 索罟湾 (经模达)</ROUTE_NAMES>
+<ROUTE_NAMEE>Aberdeen - Sok Kwu Wan (via Mo Tat)</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>R</SERVICE_MODE>
+<SPECIAL_TYPE>2</SPECIAL_TYPE>
+<JOURNEY_TIME>30</JOURNEY_TIME>
+<LOC_START_NAMEC>香港仔</LOC_START_NAMEC>
+<LOC_START_NAMES>香港仔</LOC_START_NAMES>
+<LOC_START_NAMEE>Aberdeen</LOC_START_NAMEE>
+<LOC_END_NAMEC>索罟灣</LOC_END_NAMEC>
+<LOC_END_NAMES>索罟湾</LOC_END_NAMES>
+<LOC_END_NAMEE>Sok Kwu Wan</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o10</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o10</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o10</HYPERLINK_E>
+<FULL_FARE>18.7</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7004</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>OUTLYING</DISTRICT>
+<ROUTE_NAMEC>香港仔 - 榕樹灣 (經北角村)</ROUTE_NAMEC>
+<ROUTE_NAMES>香港仔 - 榕树湾 (经北角村)</ROUTE_NAMES>
+<ROUTE_NAMEE>Aberdeen - Yung Shue Wan (via Pak Kok Tsuen)</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>R</SERVICE_MODE>
+<SPECIAL_TYPE>0</SPECIAL_TYPE>
+<JOURNEY_TIME>35</JOURNEY_TIME>
+<LOC_START_NAMEC>香港仔</LOC_START_NAMEC>
+<LOC_START_NAMES>香港仔</LOC_START_NAMES>
+<LOC_START_NAMEE>Aberdeen</LOC_START_NAMEE>
+<LOC_END_NAMEC>榕樹灣</LOC_END_NAMEC>
+<LOC_END_NAMES>榕树湾</LOC_END_NAMES>
+<LOC_END_NAMEE>Yung Shue Wan</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o09</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o09</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o09</HYPERLINK_E>
+<FULL_FARE>21</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7005</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>OUTLYING</DISTRICT>
+<ROUTE_NAMEC>中環 - 長洲</ROUTE_NAMEC>
+<ROUTE_NAMES>中环 - 长洲</ROUTE_NAMES>
+<ROUTE_NAMEE>Central - Cheung Chau</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>A</SERVICE_MODE>
+<SPECIAL_TYPE>2</SPECIAL_TYPE>
+<JOURNEY_TIME>60</JOURNEY_TIME>
+<LOC_START_NAMEC>中環</LOC_START_NAMEC>
+<LOC_START_NAMES>中环</LOC_START_NAMES>
+<LOC_START_NAMEE>Central</LOC_START_NAMEE>
+<LOC_END_NAMEC>長洲</LOC_END_NAMEC>
+<LOC_END_NAMES>长洲</LOC_END_NAMES>
+<LOC_END_NAMEE>Cheung Chau</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o01</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o01</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o01</HYPERLINK_E>
+<FULL_FARE>20.2</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7006</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>OUTLYING</DISTRICT>
+<ROUTE_NAMEC>中環 - 梅窩</ROUTE_NAMEC>
+<ROUTE_NAMES>中环 - 梅窝</ROUTE_NAMES>
+<ROUTE_NAMEE>Central - Mui Wo</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>A</SERVICE_MODE>
+<SPECIAL_TYPE>2</SPECIAL_TYPE>
+<JOURNEY_TIME>55</JOURNEY_TIME>
+<LOC_START_NAMEC>中環</LOC_START_NAMEC>
+<LOC_START_NAMES>中环</LOC_START_NAMES>
+<LOC_START_NAMEE>Central</LOC_START_NAMEE>
+<LOC_END_NAMEC>梅窩</LOC_END_NAMEC>
+<LOC_END_NAMES>梅窝</LOC_END_NAMES>
+<LOC_END_NAMEE>Mui Wo</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o02</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o02</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o02</HYPERLINK_E>
+<FULL_FARE>23.5</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7007</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>OUTLYING</DISTRICT>
+<ROUTE_NAMEC>中環 - 坪洲</ROUTE_NAMEC>
+<ROUTE_NAMES>中环 - 坪洲</ROUTE_NAMES>
+<ROUTE_NAMEE>Central - Peng Chau</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>A</SERVICE_MODE>
+<SPECIAL_TYPE>2</SPECIAL_TYPE>
+<JOURNEY_TIME>40</JOURNEY_TIME>
+<LOC_START_NAMEC>中環</LOC_START_NAMEC>
+<LOC_START_NAMES>中环</LOC_START_NAMES>
+<LOC_START_NAMEE>Central</LOC_START_NAMEE>
+<LOC_END_NAMEC>坪洲</LOC_END_NAMEC>
+<LOC_END_NAMES>坪洲</LOC_END_NAMES>
+<LOC_END_NAMEE>Peng Chau</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o03</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o03</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o03</HYPERLINK_E>
+<FULL_FARE>22.8</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7008</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>OUTLYING</DISTRICT>
+<ROUTE_NAMEC>中環 - 索罟灣</ROUTE_NAMEC>
+<ROUTE_NAMES>中环 - 索罟湾</ROUTE_NAMES>
+<ROUTE_NAMEE>Central - Sok Kwu Wan</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>R</SERVICE_MODE>
+<SPECIAL_TYPE>2</SPECIAL_TYPE>
+<JOURNEY_TIME>40</JOURNEY_TIME>
+<LOC_START_NAMEC>中環</LOC_START_NAMEC>
+<LOC_START_NAMES>中环</LOC_START_NAMES>
+<LOC_START_NAMEE>Central</LOC_START_NAMEE>
+<LOC_END_NAMEC>索罟灣</LOC_END_NAMEC>
+<LOC_END_NAMES>索罟湾</LOC_END_NAMES>
+<LOC_END_NAMEE>Sok Kwu Wan</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o05</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o05</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o05</HYPERLINK_E>
+<FULL_FARE>31</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7009</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>OUTLYING</DISTRICT>
+<ROUTE_NAMEC>中環 - 榕樹灣</ROUTE_NAMEC>
+<ROUTE_NAMES>中环 - 榕树湾</ROUTE_NAMES>
+<ROUTE_NAMEE>Central - Yung Shue Wan</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>R</SERVICE_MODE>
+<SPECIAL_TYPE>2</SPECIAL_TYPE>
+<JOURNEY_TIME>27</JOURNEY_TIME>
+<LOC_START_NAMEC>中環</LOC_START_NAMEC>
+<LOC_START_NAMES>中环</LOC_START_NAMES>
+<LOC_START_NAMEE>Central</LOC_START_NAMEE>
+<LOC_END_NAMEC>榕樹灣</LOC_END_NAMEC>
+<LOC_END_NAMES>榕树湾</LOC_END_NAMES>
+<LOC_END_NAMEE>Yung Shue Wan</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o04</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o04</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o04</HYPERLINK_E>
+<FULL_FARE>24.7</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7010</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>OUTLYING</DISTRICT>
+<ROUTE_NAMEC>中環 - 愉景灣</ROUTE_NAMEC>
+<ROUTE_NAMES>中环 - 愉景湾</ROUTE_NAMES>
+<ROUTE_NAMEE>Central - Discovery Bay</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>A</SERVICE_MODE>
+<SPECIAL_TYPE>2</SPECIAL_TYPE>
+<JOURNEY_TIME>25</JOURNEY_TIME>
+<LOC_START_NAMEC>中環</LOC_START_NAMEC>
+<LOC_START_NAMES>中环</LOC_START_NAMES>
+<LOC_START_NAMEE>Central</LOC_START_NAMEE>
+<LOC_END_NAMEC>愉景灣</LOC_END_NAMEC>
+<LOC_END_NAMES>愉景湾</LOC_END_NAMES>
+<LOC_END_NAMEE>Discovery Bay</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o11</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o11</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o11</HYPERLINK_E>
+<FULL_FARE>46</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7014</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>OUTLYING</DISTRICT>
+<ROUTE_NAMEC>中環 - 坪洲 - 喜靈洲</ROUTE_NAMEC>
+<ROUTE_NAMES>中環 - 坪洲 - 喜靈洲</ROUTE_NAMES>
+<ROUTE_NAMEE>Central - Peng Chau - Hei Ling Chau</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>R</SERVICE_MODE>
+<SPECIAL_TYPE>0</SPECIAL_TYPE>
+<JOURNEY_TIME>43</JOURNEY_TIME>
+<LOC_START_NAMEC>中環</LOC_START_NAMEC>
+<LOC_START_NAMES>中环</LOC_START_NAMES>
+<LOC_START_NAMEE>Central</LOC_START_NAMEE>
+<LOC_END_NAMEC>喜靈洲</LOC_END_NAMEC>
+<LOC_END_NAMES>喜灵洲</LOC_END_NAMES>
+<LOC_END_NAMEE>Hei Ling Chau</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o03</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o03</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o03</HYPERLINK_E>
+<FULL_FARE>37.8</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7015</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>OUTLYING</DISTRICT>
+<ROUTE_NAMEC>坪洲 - 梅窩 - 芝麻灣 - 長洲</ROUTE_NAMEC>
+<ROUTE_NAMES>坪洲 - 梅窝 - 芝麻湾 - 长洲</ROUTE_NAMES>
+<ROUTE_NAMEE>Peng Chau - Mui Wo - Chi Ma Wan - Cheung Chau</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>R</SERVICE_MODE>
+<SPECIAL_TYPE>0</SPECIAL_TYPE>
+<JOURNEY_TIME>55</JOURNEY_TIME>
+<LOC_START_NAMEC>坪洲</LOC_START_NAMEC>
+<LOC_START_NAMES>坪洲</LOC_START_NAMES>
+<LOC_START_NAMEE>Peng Chau</LOC_START_NAMEE>
+<LOC_END_NAMEC>長洲</LOC_END_NAMEC>
+<LOC_END_NAMES>长洲</LOC_END_NAMES>
+<LOC_END_NAMEE>Cheung Chau</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o08</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o08</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o08</HYPERLINK_E>
+<FULL_FARE>13.4</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7016</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>KAITO</DISTRICT>
+<ROUTE_NAMEC>馬料水 - 東平洲</ROUTE_NAMEC>
+<ROUTE_NAMES>马料水 - 东平洲</ROUTE_NAMES>
+<ROUTE_NAMEE>Ma Liu Shui - Tung Ping Chau</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>T</SERVICE_MODE>
+<SPECIAL_TYPE>3</SPECIAL_TYPE>
+<JOURNEY_TIME>67</JOURNEY_TIME>
+<LOC_START_NAMEC>馬料水</LOC_START_NAMEC>
+<LOC_START_NAMES>马料水</LOC_START_NAMES>
+<LOC_START_NAMEE>Ma Liu Shui</LOC_START_NAMEE>
+<LOC_END_NAMEC>東平洲</LOC_END_NAMEC>
+<LOC_END_NAMES>东平洲</LOC_END_NAMES>
+<LOC_END_NAMEE>Tung Ping Chau</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k13</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k13</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k13</HYPERLINK_E>
+<FULL_FARE>45</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7017</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>OUTLYING</DISTRICT>
+<ROUTE_NAMEC>馬灣 - 中環</ROUTE_NAMEC>
+<ROUTE_NAMES>马湾 - 中环</ROUTE_NAMES>
+<ROUTE_NAMEE>Ma Wan - Central</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>R</SERVICE_MODE>
+<SPECIAL_TYPE>0</SPECIAL_TYPE>
+<JOURNEY_TIME>22</JOURNEY_TIME>
+<LOC_START_NAMEC>馬灣</LOC_START_NAMEC>
+<LOC_START_NAMES>马湾</LOC_START_NAMES>
+<LOC_START_NAMEE>Ma Wan</LOC_START_NAMEE>
+<LOC_END_NAMEC>中環</LOC_END_NAMEC>
+<LOC_END_NAMES>中环</LOC_END_NAMES>
+<LOC_END_NAMEE>Central</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o16</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o16</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o16</HYPERLINK_E>
+<FULL_FARE>27</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7018</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>OUTLYING</DISTRICT>
+<ROUTE_NAMEC>馬灣 - 荃灣</ROUTE_NAMEC>
+<ROUTE_NAMES>马湾 - 荃湾</ROUTE_NAMES>
+<ROUTE_NAMEE>Ma Wan - Tsuen Wan</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>T</SERVICE_MODE>
+<SPECIAL_TYPE>1</SPECIAL_TYPE>
+<JOURNEY_TIME>12</JOURNEY_TIME>
+<LOC_START_NAMEC>馬灣</LOC_START_NAMEC>
+<LOC_START_NAMES>马湾</LOC_START_NAMES>
+<LOC_START_NAMEE>Ma Wan</LOC_START_NAMEE>
+<LOC_END_NAMEC>荃灣</LOC_END_NAMEC>
+<LOC_END_NAMES>荃湾</LOC_END_NAMES>
+<LOC_END_NAMEE>Tsuen Wan</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o17</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o17</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o17</HYPERLINK_E>
+<FULL_FARE>12</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7019</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>INNER</DISTRICT>
+<ROUTE_NAMEC>北角 - 紅磡</ROUTE_NAMEC>
+<ROUTE_NAMES>北角 - 红磡</ROUTE_NAMES>
+<ROUTE_NAMEE>North Point - Hung Hom</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>R</SERVICE_MODE>
+<SPECIAL_TYPE>0</SPECIAL_TYPE>
+<JOURNEY_TIME>8</JOURNEY_TIME>
+<LOC_START_NAMEC>北角</LOC_START_NAMEC>
+<LOC_START_NAMES>北角</LOC_START_NAMES>
+<LOC_START_NAMEE>North Point</LOC_START_NAMEE>
+<LOC_END_NAMEC>紅磡</LOC_END_NAMEC>
+<LOC_END_NAMES>红磡</LOC_END_NAMES>
+<LOC_END_NAMEE>Hung Hom</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i01</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i01</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i01</HYPERLINK_E>
+<FULL_FARE>7.5</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7020</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>INNER</DISTRICT>
+<ROUTE_NAMEC>北角 - 九龍城</ROUTE_NAMEC>
+<ROUTE_NAMES>北角 - 九龙城</ROUTE_NAMES>
+<ROUTE_NAMEE>North Point - Kowloon City</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>R</SERVICE_MODE>
+<SPECIAL_TYPE>0</SPECIAL_TYPE>
+<JOURNEY_TIME>14</JOURNEY_TIME>
+<LOC_START_NAMEC>北角</LOC_START_NAMEC>
+<LOC_START_NAMES>北角</LOC_START_NAMES>
+<LOC_START_NAMEE>North Point</LOC_START_NAMEE>
+<LOC_END_NAMEC>九龍城</LOC_END_NAMEC>
+<LOC_END_NAMES>九龙城</LOC_END_NAMES>
+<LOC_END_NAMEE>Kowloon City</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i02</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i02</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i02</HYPERLINK_E>
+<FULL_FARE>7.5</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7021</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>INNER</DISTRICT>
+<ROUTE_NAMEC>北角 - 觀塘 - 啟德</ROUTE_NAMEC>
+<ROUTE_NAMES>北角 - 观塘 - 启德</ROUTE_NAMES>
+<ROUTE_NAMEE>North Point - Kwun Tong - Kai Tak</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>T</SERVICE_MODE>
+<SPECIAL_TYPE>1</SPECIAL_TYPE>
+<JOURNEY_TIME>24</JOURNEY_TIME>
+<LOC_START_NAMEC>北角</LOC_START_NAMEC>
+<LOC_START_NAMES>北角</LOC_START_NAMES>
+<LOC_START_NAMEE>North Point</LOC_START_NAMEE>
+<LOC_END_NAMEC>啟德</LOC_END_NAMEC>
+<LOC_END_NAMES>启德</LOC_END_NAMES>
+<LOC_END_NAMEE>Kai Tak</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i03</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i03</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i03</HYPERLINK_E>
+<FULL_FARE>6.5</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7022</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>INNER</DISTRICT>
+<ROUTE_NAMEC>西灣河 - 觀塘</ROUTE_NAMEC>
+<ROUTE_NAMES>西湾河 - 观塘</ROUTE_NAMES>
+<ROUTE_NAMEE>Sai Wan Ho - Kwun Tong</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>R</SERVICE_MODE>
+<SPECIAL_TYPE>0</SPECIAL_TYPE>
+<JOURNEY_TIME>15</JOURNEY_TIME>
+<LOC_START_NAMEC>西灣河</LOC_START_NAMEC>
+<LOC_START_NAMES>西湾河</LOC_START_NAMES>
+<LOC_START_NAMEE>Sai Wan Ho</LOC_START_NAMEE>
+<LOC_END_NAMEC>觀塘</LOC_END_NAMEC>
+<LOC_END_NAMES>观塘</LOC_END_NAMES>
+<LOC_END_NAMEE>Kwun Tong</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i11</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i11</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i11</HYPERLINK_E>
+<FULL_FARE>9</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7023</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>INNER</DISTRICT>
+<ROUTE_NAMEC>西灣河 - 三家村</ROUTE_NAMEC>
+<ROUTE_NAMES>西湾河 - 三家村</ROUTE_NAMES>
+<ROUTE_NAMEE>Sai Wan Ho - Sam Ka Tsuen</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>R</SERVICE_MODE>
+<SPECIAL_TYPE>0</SPECIAL_TYPE>
+<JOURNEY_TIME>10</JOURNEY_TIME>
+<LOC_START_NAMEC>西灣河</LOC_START_NAMEC>
+<LOC_START_NAMES>西湾河</LOC_START_NAMES>
+<LOC_START_NAMEE>Sai Wan Ho</LOC_START_NAMEE>
+<LOC_END_NAMEC>三家村</LOC_END_NAMEC>
+<LOC_END_NAMES>三家村</LOC_END_NAMES>
+<LOC_END_NAMEE>Sam Ka Tsuen</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i10</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i10</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i10</HYPERLINK_E>
+<FULL_FARE>9</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7025</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>OUTLYING</DISTRICT>
+<ROUTE_NAMEC>屯門 - 東涌 - 沙螺灣 - 大澳</ROUTE_NAMEC>
+<ROUTE_NAMES>屯门 - 东涌 - 沙螺湾 - 大澳</ROUTE_NAMES>
+<ROUTE_NAMEE>Tuen Mun - Tung Chung - Sha Lo Wan - Tai O</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>R</SERVICE_MODE>
+<SPECIAL_TYPE>2</SPECIAL_TYPE>
+<JOURNEY_TIME>90</JOURNEY_TIME>
+<LOC_START_NAMEC>屯門</LOC_START_NAMEC>
+<LOC_START_NAMES>屯门</LOC_START_NAMES>
+<LOC_START_NAMEE>Tuen Mun</LOC_START_NAMEE>
+<LOC_END_NAMEC>大澳</LOC_END_NAMEC>
+<LOC_END_NAMES>大澳</LOC_END_NAMES>
+<LOC_END_NAMEE>Tai O</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o07</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o07</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o07</HYPERLINK_E>
+<FULL_FARE>27</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7026</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>KAITO</DISTRICT>
+<ROUTE_NAMEC>馬料水 - 塔門</ROUTE_NAMEC>
+<ROUTE_NAMES>马料水 - 塔门</ROUTE_NAMES>
+<ROUTE_NAMEE>Ma Liu Shui - Tap Mun</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>R</SERVICE_MODE>
+<SPECIAL_TYPE>2</SPECIAL_TYPE>
+<JOURNEY_TIME>80</JOURNEY_TIME>
+<LOC_START_NAMEC>馬料水</LOC_START_NAMEC>
+<LOC_START_NAMES>马料水</LOC_START_NAMES>
+<LOC_START_NAMEE>Ma Liu Shui</LOC_START_NAMEE>
+<LOC_END_NAMEC>塔門</LOC_END_NAMEC>
+<LOC_END_NAMES>塔门</LOC_END_NAMES>
+<LOC_END_NAMEE>Tap Mun</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k04</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k04</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k04</HYPERLINK_E>
+<FULL_FARE>28</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7027</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>KAITO</DISTRICT>
+<ROUTE_NAMEC>塔門 - 黃石碼頭</ROUTE_NAMEC>
+<ROUTE_NAMES>塔门 - 黄石码头</ROUTE_NAMES>
+<ROUTE_NAMEE>Tap Mun - Wong Shek Pier</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>R</SERVICE_MODE>
+<SPECIAL_TYPE>2</SPECIAL_TYPE>
+<JOURNEY_TIME>12</JOURNEY_TIME>
+<LOC_START_NAMEC>塔門</LOC_START_NAMEC>
+<LOC_START_NAMES>塔门</LOC_START_NAMES>
+<LOC_START_NAMEE>Tap Mun</LOC_START_NAMEE>
+<LOC_END_NAMEC>黃石碼頭</LOC_END_NAMEC>
+<LOC_END_NAMES>黄石码头</LOC_END_NAMES>
+<LOC_END_NAMEE>Wong Shek Pier</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k03</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k03</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k03</HYPERLINK_E>
+<FULL_FARE>14</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7028</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>KAITO</DISTRICT>
+<ROUTE_NAMEC>香港仔 - 模達</ROUTE_NAMEC>
+<ROUTE_NAMES>香港仔 - 模达</ROUTE_NAMES>
+<ROUTE_NAMEE>Aberdeen - Mo Tat</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>T</SERVICE_MODE>
+<SPECIAL_TYPE>3</SPECIAL_TYPE>
+<JOURNEY_TIME>25</JOURNEY_TIME>
+<LOC_START_NAMEC>香港仔</LOC_START_NAMEC>
+<LOC_START_NAMES>香港仔</LOC_START_NAMES>
+<LOC_START_NAMEE>Aberdeen</LOC_START_NAMEE>
+<LOC_END_NAMEC>模達</LOC_END_NAMEC>
+<LOC_END_NAMES>模达</LOC_END_NAMES>
+<LOC_END_NAMEE>Mo Tat</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k08</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k08</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k08</HYPERLINK_E>
+<FULL_FARE>18</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7029</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>KAITO</DISTRICT>
+<ROUTE_NAMEC>模達 - 索罟灣</ROUTE_NAMEC>
+<ROUTE_NAMES>模达 - 索罟湾</ROUTE_NAMES>
+<ROUTE_NAMEE>Mo Tat - Sok Kwu Wan</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>T</SERVICE_MODE>
+<SPECIAL_TYPE>3</SPECIAL_TYPE>
+<JOURNEY_TIME>10</JOURNEY_TIME>
+<LOC_START_NAMEC>模達</LOC_START_NAMEC>
+<LOC_START_NAMES>模达</LOC_START_NAMES>
+<LOC_START_NAMEE>Mo Tat</LOC_START_NAMEE>
+<LOC_END_NAMEC>索罟灣</LOC_END_NAMEC>
+<LOC_END_NAMES>索罟湾</LOC_END_NAMES>
+<LOC_END_NAMEE>Sok Kwu Wan</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k09</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k09</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k09</HYPERLINK_E>
+<FULL_FARE>6</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7030</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>INNER</DISTRICT>
+<ROUTE_NAMEC>尖沙咀 - 中環</ROUTE_NAMEC>
+<ROUTE_NAMES>尖沙咀 - 中环</ROUTE_NAMES>
+<ROUTE_NAMEE>Tsim Sha Tsui - Central</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>R</SERVICE_MODE>
+<SPECIAL_TYPE>2</SPECIAL_TYPE>
+<JOURNEY_TIME>9</JOURNEY_TIME>
+<LOC_START_NAMEC>尖沙咀</LOC_START_NAMEC>
+<LOC_START_NAMES>尖沙咀</LOC_START_NAMES>
+<LOC_START_NAMEE>Tsim Sha Tsui</LOC_START_NAMEE>
+<LOC_END_NAMEC>中環</LOC_END_NAMEC>
+<LOC_END_NAMES>中环</LOC_END_NAMES>
+<LOC_END_NAMEE>Central</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i04</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i04</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i04</HYPERLINK_E>
+<FULL_FARE>3.7</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7031</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>INNER</DISTRICT>
+<ROUTE_NAMEC>尖沙咀 - 灣仔</ROUTE_NAMEC>
+<ROUTE_NAMES>尖沙咀 - 湾仔</ROUTE_NAMES>
+<ROUTE_NAMEE>Tsim Sha Tsui - Wan Chai</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>R</SERVICE_MODE>
+<SPECIAL_TYPE>2</SPECIAL_TYPE>
+<JOURNEY_TIME>8</JOURNEY_TIME>
+<LOC_START_NAMEC>尖沙咀</LOC_START_NAMEC>
+<LOC_START_NAMES>尖沙咀</LOC_START_NAMES>
+<LOC_START_NAMEE>Tsim Sha Tsui</LOC_START_NAMEE>
+<LOC_END_NAMEC>灣仔</LOC_END_NAMEC>
+<LOC_END_NAMES>湾仔</LOC_END_NAMES>
+<LOC_END_NAMEE>Wan Chai</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i05</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i05</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i05</HYPERLINK_E>
+<FULL_FARE>3.7</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7032</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>KAITO</DISTRICT>
+<ROUTE_NAMEC>坪洲 - 愉景灣 (經熙篤神學院)</ROUTE_NAMEC>
+<ROUTE_NAMES>坪洲 - 愉景湾 (经熙笃神学院)</ROUTE_NAMES>
+<ROUTE_NAMEE>Peng Chau - Discovery Bay (via Trappist Monastery)</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>R</SERVICE_MODE>
+<SPECIAL_TYPE>0</SPECIAL_TYPE>
+<JOURNEY_TIME>7</JOURNEY_TIME>
+<LOC_START_NAMEC>坪洲</LOC_START_NAMEC>
+<LOC_START_NAMES>坪洲</LOC_START_NAMES>
+<LOC_START_NAMEE>Peng Chau</LOC_START_NAMEE>
+<LOC_END_NAMEC>愉景灣</LOC_END_NAMEC>
+<LOC_END_NAMES>愉景湾</LOC_END_NAMES>
+<LOC_END_NAMEE>Discovery Bay</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k11</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k11</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k11</HYPERLINK_E>
+<FULL_FARE>6.5</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7033</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>KAITO</DISTRICT>
+<ROUTE_NAMEC>長洲 - 西灣</ROUTE_NAMEC>
+<ROUTE_NAMES>长洲 - 西湾</ROUTE_NAMES>
+<ROUTE_NAMEE>Cheung Chau - Sai Wan</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>R</SERVICE_MODE>
+<SPECIAL_TYPE>0</SPECIAL_TYPE>
+<JOURNEY_TIME>5</JOURNEY_TIME>
+<LOC_START_NAMEC>長洲</LOC_START_NAMEC>
+<LOC_START_NAMES>长洲</LOC_START_NAMES>
+<LOC_START_NAMEE>Cheung Chau</LOC_START_NAMEE>
+<LOC_END_NAMEC>西灣</LOC_END_NAMEC>
+<LOC_END_NAMES>西湾</LOC_END_NAMES>
+<LOC_END_NAMEE>Sai Wan</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k12</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k12</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k12</HYPERLINK_E>
+<FULL_FARE>5</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7035</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>KAITO</DISTRICT>
+<ROUTE_NAMEC>三家村 - 東龍島</ROUTE_NAMEC>
+<ROUTE_NAMES>三家村 - 东龙岛</ROUTE_NAMES>
+<ROUTE_NAMEE>Sam Ka Tsuen - Tung Lung Island</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>T</SERVICE_MODE>
+<SPECIAL_TYPE>1</SPECIAL_TYPE>
+<JOURNEY_TIME>18</JOURNEY_TIME>
+<LOC_START_NAMEC>三家村</LOC_START_NAMEC>
+<LOC_START_NAMES>三家村</LOC_START_NAMES>
+<LOC_START_NAMEE>Sam Ka Tsuen</LOC_START_NAMEE>
+<LOC_END_NAMEC>東龍島</LOC_END_NAMEC>
+<LOC_END_NAMES>东龙岛</LOC_END_NAMES>
+<LOC_END_NAMEE>Tung Lung Island</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k02</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k02</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k02</HYPERLINK_E>
+<FULL_FARE>45</FULL_FARE>
+<LAST_UPDATE_DATE>2020-07-24T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7036</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>KAITO</DISTRICT>
+<ROUTE_NAMEC>沙頭角 - 吉澳</ROUTE_NAMEC>
+<ROUTE_NAMES>沙头角 -吉澳</ROUTE_NAMES>
+<ROUTE_NAMEE>Sha Tau Kok - Kat O</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>T</SERVICE_MODE>
+<SPECIAL_TYPE>1</SPECIAL_TYPE>
+<JOURNEY_TIME>17</JOURNEY_TIME>
+<LOC_START_NAMEC>沙頭角</LOC_START_NAMEC>
+<LOC_START_NAMES>沙头角</LOC_START_NAMES>
+<LOC_START_NAMEE>Sha Tau Kok</LOC_START_NAMEE>
+<LOC_END_NAMEC>吉澳</LOC_END_NAMEC>
+<LOC_END_NAMES>吉澳</LOC_END_NAMES>
+<LOC_END_NAMEE>Kat O</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k05</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k05</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k05</HYPERLINK_E>
+<FULL_FARE>20</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7037</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>KAITO</DISTRICT>
+<ROUTE_NAMEC>黃石碼頭 - 赤徑 (經灣仔)</ROUTE_NAMEC>
+<ROUTE_NAMES>黄石码头 - 赤径 (经湾仔)</ROUTE_NAMES>
+<ROUTE_NAMEE>Wong Shek Pier - Chek Keng (via Wan Tsai)</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>T</SERVICE_MODE>
+<SPECIAL_TYPE>1</SPECIAL_TYPE>
+<JOURNEY_TIME>20</JOURNEY_TIME>
+<LOC_START_NAMEC>黃石碼頭</LOC_START_NAMEC>
+<LOC_START_NAMES>黄石码头</LOC_START_NAMES>
+<LOC_START_NAMEE>Wong Shek Pier</LOC_START_NAMEE>
+<LOC_END_NAMEC>赤徑</LOC_END_NAMEC>
+<LOC_END_NAMES>赤径</LOC_END_NAMES>
+<LOC_END_NAMEE>Chek Keng</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k06</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k06</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k06</HYPERLINK_E>
+<FULL_FARE>15</FULL_FARE>
+<LAST_UPDATE_DATE>2020-07-24T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7041</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>OUTLYING</DISTRICT>
+<ROUTE_NAMEC>愉景灣 - 梅窩</ROUTE_NAMEC>
+<ROUTE_NAMES>愉景湾 - 梅窝</ROUTE_NAMES>
+<ROUTE_NAMEE>Discovery Bay - Mui Wo</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>R</SERVICE_MODE>
+<SPECIAL_TYPE>0</SPECIAL_TYPE>
+<JOURNEY_TIME>20</JOURNEY_TIME>
+<LOC_START_NAMEC>愉景灣</LOC_START_NAMEC>
+<LOC_START_NAMES>愉景湾</LOC_START_NAMES>
+<LOC_START_NAMEE>Discovery Bay</LOC_START_NAMEE>
+<LOC_END_NAMEC>梅窩</LOC_END_NAMEC>
+<LOC_END_NAMES>梅窝</LOC_END_NAMES>
+<LOC_END_NAMEE>Mui Wo</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o12</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o12</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html#o12</HYPERLINK_E>
+<FULL_FARE>15</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7051</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>KAITO</DISTRICT>
+<ROUTE_NAMEC>香港仔 - 鴨脷洲</ROUTE_NAMEC>
+<ROUTE_NAMES>香港仔 - 鸭脷洲</ROUTE_NAMES>
+<ROUTE_NAMEE>Aberdeen - Ap Lei Chau</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>R</SERVICE_MODE>
+<SPECIAL_TYPE>0</SPECIAL_TYPE>
+<JOURNEY_TIME>4</JOURNEY_TIME>
+<LOC_START_NAMEC>香港仔</LOC_START_NAMEC>
+<LOC_START_NAMES>香港仔</LOC_START_NAMES>
+<LOC_START_NAMEE>Aberdeen</LOC_START_NAMEE>
+<LOC_END_NAMEC>鴨脷洲</LOC_END_NAMEC>
+<LOC_END_NAMES>鸭脷洲</LOC_END_NAMES>
+<LOC_END_NAMEE>Ap Lei Chau</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k14</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k14</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k14</HYPERLINK_E>
+<FULL_FARE>2.5</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7052</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>KAITO</DISTRICT>
+<ROUTE_NAMEC>香港仔 - 鴨脷洲</ROUTE_NAMEC>
+<ROUTE_NAMES>香港仔 - 鸭脷洲</ROUTE_NAMES>
+<ROUTE_NAMEE>Aberdeen - Ap Lei Chau</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>R</SERVICE_MODE>
+<SPECIAL_TYPE>0</SPECIAL_TYPE>
+<JOURNEY_TIME>4</JOURNEY_TIME>
+<LOC_START_NAMEC>香港仔</LOC_START_NAMEC>
+<LOC_START_NAMES>香港仔</LOC_START_NAMES>
+<LOC_START_NAMEE>Aberdeen</LOC_START_NAMEE>
+<LOC_END_NAMEC>鴨脷洲</LOC_END_NAMEC>
+<LOC_END_NAMES>鸭脷洲</LOC_END_NAMES>
+<LOC_END_NAMEE>Ap Lei Chau</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k14</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k14</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k14</HYPERLINK_E>
+<FULL_FARE>2.5</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7053</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>KAITO</DISTRICT>
+<ROUTE_NAMEC>西灣河 - 東龍島</ROUTE_NAMEC>
+<ROUTE_NAMES>西湾河 - 东龙岛</ROUTE_NAMES>
+<ROUTE_NAMEE>Sai Wan Ho - Tung Lung Island</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>T</SERVICE_MODE>
+<SPECIAL_TYPE>1</SPECIAL_TYPE>
+<JOURNEY_TIME>19</JOURNEY_TIME>
+<LOC_START_NAMEC>西灣河</LOC_START_NAMEC>
+<LOC_START_NAMES>西湾河</LOC_START_NAMES>
+<LOC_START_NAMEE>Sai Wan Ho</LOC_START_NAMEE>
+<LOC_END_NAMEC>東龍島</LOC_END_NAMEC>
+<LOC_END_NAMES>东龙岛</LOC_END_NAMES>
+<LOC_END_NAMEE>Tung Lung Island</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k15</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k15</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k15</HYPERLINK_E>
+<FULL_FARE>55</FULL_FARE>
+<LAST_UPDATE_DATE>2020-06-18T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7055</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>KAITO</DISTRICT>
+<ROUTE_NAMEC>馬料水 - 荔枝窩</ROUTE_NAMEC>
+<ROUTE_NAMES>马料水 - 荔枝窝</ROUTE_NAMES>
+<ROUTE_NAMEE>Ma Liu Shui – Lai Chi Wo</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>T</SERVICE_MODE>
+<SPECIAL_TYPE>1</SPECIAL_TYPE>
+<JOURNEY_TIME>90</JOURNEY_TIME>
+<LOC_START_NAMEC>馬料水</LOC_START_NAMEC>
+<LOC_START_NAMES>马料水</LOC_START_NAMES>
+<LOC_START_NAMEE>Ma Liu Shui</LOC_START_NAMEE>
+<LOC_END_NAMEC>荔枝窩</LOC_END_NAMEC>
+<LOC_END_NAMES>荔枝窝</LOC_END_NAMES>
+<LOC_END_NAMEE>Lai Chi Wo</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k16</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k16</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k16</HYPERLINK_E>
+<FULL_FARE>50</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7056</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>INNER</DISTRICT>
+<ROUTE_NAMEC>北角 - 觀塘</ROUTE_NAMEC>
+<ROUTE_NAMES>北角 - 观塘</ROUTE_NAMES>
+<ROUTE_NAMEE>North Point - Kwun Tung</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>R</SERVICE_MODE>
+<SPECIAL_TYPE>0</SPECIAL_TYPE>
+<JOURNEY_TIME>12</JOURNEY_TIME>
+<LOC_START_NAMEC>北角</LOC_START_NAMEC>
+<LOC_START_NAMES>北角</LOC_START_NAMES>
+<LOC_START_NAMEE>North Point</LOC_START_NAMEE>
+<LOC_END_NAMEC>觀塘</LOC_END_NAMEC>
+<LOC_END_NAMES>观塘</LOC_END_NAMES>
+<LOC_END_NAMEE>Kwun Tung</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i03</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i03</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i03</HYPERLINK_E>
+<FULL_FARE>6.5</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7057</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>KAITO</DISTRICT>
+<ROUTE_NAMEC>香港仔 - 蒲台島</ROUTE_NAMEC>
+<ROUTE_NAMES>香港仔 - 蒲台岛</ROUTE_NAMES>
+<ROUTE_NAMEE>Aberdeen - Po Toi Island</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>T</SERVICE_MODE>
+<SPECIAL_TYPE>3</SPECIAL_TYPE>
+<JOURNEY_TIME>30</JOURNEY_TIME>
+<LOC_START_NAMEC>香港仔</LOC_START_NAMEC>
+<LOC_START_NAMES>香港仔</LOC_START_NAMES>
+<LOC_START_NAMEE>Aberdeen</LOC_START_NAMEE>
+<LOC_END_NAMEC>蒲台島</LOC_END_NAMEC>
+<LOC_END_NAMES>蒲台岛</LOC_END_NAMES>
+<LOC_END_NAMEE>Po Toi Island</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k10</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k10</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k10</HYPERLINK_E>
+<FULL_FARE>25</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7058</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>KAITO</DISTRICT>
+<ROUTE_NAMEC>赤柱 - 蒲台島</ROUTE_NAMEC>
+<ROUTE_NAMES>赤柱 - 蒲台岛</ROUTE_NAMES>
+<ROUTE_NAMEE>Stanley - Po Toi Island</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>T</SERVICE_MODE>
+<SPECIAL_TYPE>3</SPECIAL_TYPE>
+<JOURNEY_TIME>20</JOURNEY_TIME>
+<LOC_START_NAMEC>赤柱</LOC_START_NAMEC>
+<LOC_START_NAMES>赤柱</LOC_START_NAMES>
+<LOC_START_NAMEE>Stanley</LOC_START_NAMEE>
+<LOC_END_NAMEC>蒲台島</LOC_END_NAMEC>
+<LOC_END_NAMES>蒲台岛</LOC_END_NAMES>
+<LOC_END_NAMEE>Po Toi Island</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k10</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k10</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/kaito_services_map/service_details/index.html#k10</HYPERLINK_E>
+<FULL_FARE>25</FULL_FARE>
+<LAST_UPDATE_DATE>2020-02-13T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+<ROUTE>
+<ROUTE_ID>7059</ROUTE_ID>
+<COMPANY_CODE>FERRY</COMPANY_CODE>
+<DISTRICT>INNER</DISTRICT>
+<ROUTE_NAMEC>中環 - 紅磡</ROUTE_NAMEC>
+<ROUTE_NAMES>中环 - 红磡</ROUTE_NAMES>
+<ROUTE_NAMEE>Central - Hung Hom</ROUTE_NAMEE>
+<ROUTE_TYPE>7</ROUTE_TYPE>
+<SERVICE_MODE>R</SERVICE_MODE>
+<SPECIAL_TYPE>0</SPECIAL_TYPE>
+<JOURNEY_TIME>16</JOURNEY_TIME>
+<LOC_START_NAMEC>中環</LOC_START_NAMEC>
+<LOC_START_NAMES>中环</LOC_START_NAMES>
+<LOC_START_NAMEE>Central</LOC_START_NAMEE>
+<LOC_END_NAMEC>紅磡</LOC_END_NAMEC>
+<LOC_END_NAMES>红磡</LOC_END_NAMES>
+<LOC_END_NAMEE>Hung Hom</LOC_END_NAMEE>
+<HYPERLINK_C>http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i12</HYPERLINK_C>
+<HYPERLINK_S>http://www.td.gov.hk/sc/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i12</HYPERLINK_S>
+<HYPERLINK_E>http://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index.html#i12</HYPERLINK_E>
+<FULL_FARE>9</FULL_FARE>
+<LAST_UPDATE_DATE>2020-06-28T00:00:00</LAST_UPDATE_DATE>
+</ROUTE>
+</dataroot>
