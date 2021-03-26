@@ -36,6 +36,31 @@ Run the python file "spo_generation.py" in the folder "BERT/spo generation" to g
   ```
   python run_predicate_classification.py ^--task_name=TN_Label ^--do_train=true^ --do_eval=false ^--data_dir=./bin/predicate_classifiction/classification_data ^--vocab_file=./pretrained_model/bert-base-uncased/vocab.txt ^--bert_config_file=./pretrained_model/bert-base-uncased/bert_config.json ^--init_checkpoint=./pretrained_model/bert-base-uncased/bert_model.ckpt ^--max_seq_length=128 ^--train_batch_size=32 ^--learning_rate=2e-5 ^--num_train_epochs=6.0 ^--output_dir=/tmp/my-try/predicate_classification_model/epochs6/
 ```
-3. 
+3. prepare data for labelling model
+  ```
+  python bin/subject_object_labeling/sequence_labeling_data_manager.py
+  ```
+4. training for labelling model
+  ```
+  python run_sequnce_labeling.py ^--task_name=TN_Label ^--do_train=true ^--do_eval=false ^--data_dir=./bin/subject_object_labeling/sequence_labeling_data ^--vocab_file=./pretrained_model/bert-base-uncased/vocab.txt ^--bert_config_file=./pretrained_model/bert-base-uncased/bert_config.json ^--init_checkpoint=./pretrained_model/bert-base-uncased/bert_model.ckpt ^--max_seq_length=128 ^--train_batch_size=32 ^--learning_rate=2e-5 ^--num_train_epochs=9.0 ^--output_dir=/tmp/my-try/sequnce_labeling_model/epochs9/
+```
+### testing phase
+1. use the classification model to identify the predicate
+  ```
+  python run_predicate_classification.py ^  --task_name=TN_Label ^  --do_predict=true ^  --data_dir=./bin/predicate_classifiction/classification_data ^  --vocab_file=./pretrained_model/bert-base-uncased/vocab.txt ^  --bert_config_file=./pretrained_model/bert-base-uncased/bert_config.json ^  --init_checkpoint=/tmp/my-try/predicate_classification_model/epochs6/model.ckpt-1160 ^  --max_seq_length=128 ^  --output_dir=/tmp/my-try/predicate_infer_out/epochs6/ckpt1160
+  ```
+2. transfer the classification results to input data of labelling model
+  ```
+  python bin/predicate_classifiction/prepare_data_for_labeling_infer.py
+  ```
+3. use the labelling model to identify entities
+  ```
+  python run_sequnce_labeling.py ^  --task_name=TN_Label ^  --do_predict=true ^  --data_dir=./bin/subject_object_labeling/sequence_labeling_data ^  --vocab_file=./pretrained_model/bert-base-uncased/vocab.txt ^  --bert_config_file=./pretrained_model/bert-base-uncased/bert_config.json ^  --init_checkpoint=/tmp/my-try/sequnce_labeling_model/epochs9/model.ckpt-4482 ^  --max_seq_length=128 ^  --output_dir=/tmp/my-try/sequnce_infer_out/epochs9/ckpt4482
+  ```
+4. generate RDF triples
+  ```
+  python produce_submit_json_file.py
+  ```
+### evalutation phase
 
 
