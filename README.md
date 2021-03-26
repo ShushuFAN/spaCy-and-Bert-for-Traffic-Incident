@@ -26,4 +26,16 @@ The training model is designed on the basis of [BERT](https://arxiv.org/abs/1810
 + Tensorflow 1.12.0+
 + Dowload [bert-base-uncased](https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-24_H-1024_A-16.zip), unzip file and put it in the folder "BERT/pretained_model"
 ### training dataset
-Run the python file 
+Run the python file "spo_generation.py" in the folder "BERT/spo generation" to generate the RDF triples according to the latent relationships of the labels and these triples are extamined by ten experts. The revised data are saved as "RDF_triples.json" in the same folder for division. The training dataset (70%) is the file "train_data.json" and testing dataset (30%) is "test_data.json" in the folder "BERT/raw_data".
+### training phase
+1. prepare data for classification training
+  ```
+  python bin/predicate_classifiction/predicate_data_manager.py
+  ```
+2. training for classification model
+  ```
+  python run_predicate_classification.py ^--task_name=TN_Label ^--do_train=true^ --do_eval=false ^--data_dir=./bin/predicate_classifiction/classification_data ^--vocab_file=./pretrained_model/bert-base-uncased/vocab.txt ^--bert_config_file=./pretrained_model/bert-base-uncased/bert_config.json ^--init_checkpoint=./pretrained_model/bert-base-uncased/bert_model.ckpt ^--max_seq_length=128 ^--train_batch_size=32 ^--learning_rate=2e-5 ^--num_train_epochs=6.0 ^--output_dir=/tmp/my-try/predicate_classification_model/epochs6/
+```
+3. 
+
+
