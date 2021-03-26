@@ -69,5 +69,4 @@ run "evaluate_classifiction.py" and "evaluate_labeling.py" in the folder "BERT/b
 |epochs6ckpt13000|epochs9ckpt10000|0.9694|0.8188|0.8169|
 |epochs6ckpt20000|epochs9ckpt17000|0.9651|0.838|0.8365|
 |epochs6ckpt23000|epochs9ckpt20000|0.9714|0.8289|0.8238|
-## real-time incident extraction
-1. run 
+
