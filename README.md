@@ -62,5 +62,10 @@ Run the python file "spo_generation.py" in the folder "BERT/spo generation" to g
   python produce_submit_json_file.py
   ```
 ### evalutation phase
-
-
+run "evaluate_classifiction.py" and "evaluate_labeling.py" in the folder "BERT/bin/evaluation"
+|分类模型|序列标注模型|准确率|召回率|F1值|
+|-|-|-|-|-|
+|epochs6ckpt1000|epochs9ckpt4000|0.9549|0.8028|0.8214|
+|epochs6ckpt13000|epochs9ckpt10000|0.9694|0.8188|0.8169|
+|epochs6ckpt20000|epochs9ckpt17000|0.9651|0.838|0.8365|
+|epochs6ckpt23000|epochs9ckpt20000|0.9714|0.8289|0.8238|
