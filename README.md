@@ -63,7 +63,7 @@ Run the python file "spo_generation.py" in the folder "BERT/spo generation" to g
   ```
 ### evalutation phase
 run "evaluate_classifiction.py" and "evaluate_labeling.py" in the folder "BERT/bin/evaluation"
-|分类模型|序列标注模型|准确率|召回率|F1值|
+|classification models|labelling models|P|R|F1|
 |-|-|-|-|-|
 |epochs6ckpt1000|epochs9ckpt4000|0.9549|0.8028|0.8214|
 |epochs6ckpt13000|epochs9ckpt10000|0.9694|0.8188|0.8169|
